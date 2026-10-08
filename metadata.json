@@ -1,0 +1,6 @@
+{
+  "name": "정신차리라",
+  "description": "매운맛 경상도 사투리로 나태함을 단숨에 깨워주는 모바일 동기부여 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

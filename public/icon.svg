@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="104" fill="#1B4332"/>
+  <circle cx="256" cy="256" r="220" stroke="#F4EBD9" stroke-width="8" stroke-dasharray="16 12" opacity="0.4"/>
+  
+  <!-- Stylized energy flash / wake-up spark -->
+  <path d="M280 64L160 272H272L232 448L352 240H240L280 64Z" fill="#FBBF24" stroke="#FFFBEB" stroke-width="6" stroke-linejoin="round"/>
+  
+  <!-- Banner with bold Korean text -->
+  <rect x="76" y="360" width="360" height="92" rx="24" fill="#FDFBF7" stroke="#D8F3DC" stroke-width="4"/>
+  <text x="256" y="424" font-family="'Pretendard', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-weight="900" font-size="52" fill="#1B4332" text-anchor="middle" letter-spacing="2">정신차리라!</text>
+</svg>
